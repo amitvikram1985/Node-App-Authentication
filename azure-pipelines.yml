@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: DESKTOP-I71DIIU
+  name: default
 
 steps:
 - script: echo Hello, world!
